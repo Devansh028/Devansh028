@@ -1,85 +1,94 @@
-👋 Hi, I'm Devansh Kumar
-🚀 Java Backend Developer | MERN Learner | Full-Stack Engineer
+<h1 align="center">👋 Hey, I'm <span style="color:#00C3FF">Devansh Kumar</span></h1>
+<h3 align="center">🚀 Java Backend Developer | MERN Learner | Full-Stack Engineer</h3>
 
-💡 Passionate about building real-world backend projects, APIs, microservices & scalable systems.
+<p align="center">
+  Passionate about building production-level backend systems, APIs, microservices & scalable applications.
+</p>
 
-🔥 Tech Stack
-Backend
+---
 
-Java (Core + OOP + Collections)
+## 🌟 **Tech Stack**
 
-Spring Boot (Learning Phase)
+### 🔧 Backend
+- **Java (Core + OOP + Collections)**
+- **Spring Boot** (learning)
+- **Node.js + Express**
+- **REST APIs**
 
-Node.js + Express
+### 🎨 Frontend
+- React.js  
+- Tailwind CSS  
+- JavaScript  
 
-REST APIs
+### 🗄 Databases
+- MongoDB  
+- MySQL  
 
-Frontend
+### 🛠 Tools
+- Git & GitHub  
+- Postman  
+- VS Code / IntelliJ  
+- Render / Netlify  
 
-React.js
+---
 
-Tailwind CSS
+## 🏆 **Featured Projects**
 
-JavaScript
+### 📘 **Student Management System (Java)**
+CRUD + File Handling + OOP  
+⭐ Beginner-friendly project  
 
-Database
+### 📚 **Library Management System**
+Add / Issue / Return / Search Books  
+🔖 File persistence + OOP  
 
-MongoDB, MySQL
+### 🏦 **Bank Management System**
+Deposit, Withdraw, Transfer, Balance Inquiry  
 
-Tools
+### 📝 **Online Examination System**
+MCQs + Auto-Score Evaluation  
 
-Git & GitHub
+### 📦 **Inventory Management System**
+Product CRUD + Low-stock Alerts  
+🌟 Most polished Java project  
 
-Postman
+### 👔 **Employee Payroll System**
+Salary management + payroll generation  
 
-VS Code, IntelliJ
+---
 
-Render / Netlify
+## 🚀 **Learning & Growth**
+- Spring Boot + Microservices  
+- DSA in Java  
+- Cloud Deployments  
+- Full-Stack Projects  
 
-💼 Featured Projects
-🔹 Student Management System (Java)
+---
 
-CRUD + File Handling + OOP
-📌 Java-based beginner-friendly project
+## 📊 GitHub Stats
 
-🔹 Library Management System (Java)
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Devansh028&show_icons=true&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devansh028&layout=compact&theme=tokyonight" />
+</p>
 
-Add/Issue/Return/Search books
-📌 File persistence + OOP
+---
 
-🔹 Bank Management System
+## 🔥 GitHub Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Devansh028&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
-Deposit, Withdraw, Transfer, Balance Inquiry
+---
 
-🔹 Online Examination System
+## 🤝 Connect With Me
 
-MCQ exam + Auto-scoring
+📧 **devanshkumar370@gmail.com**  
+🔗 LinkedIn (add your link here)
 
-🔹 Inventory Management System
+---
 
-Low-stock alerts, Product CRUD
-⭐ Most polished Java project so far
+## ⭐ Fun Fact  
+I’m doing **100 Days of Code** where I build **daily Java projects** for discipline, growth & mastery.
 
-🔹 Employee Payroll System
-
-Salary management, payroll generation
-
-…and more in progress 🔥
-
-🌱 Currently Learning
-
-📘 Spring Boot + Microservices
-🐍 DSA in Java
-☁ Cloud deployments
-
-📊 GitHub Stats
-
-(Add later after commits land)
-
-📬 Connect With Me
-
-📧 devanshkumar370@gmail.com
-
-⭐ Fun Fact
-
-I build daily Java projects as part of my 100 Days of Code Challenge.
+---
