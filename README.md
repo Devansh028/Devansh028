@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey, I'm <span style="color:#00C3FF">Devansh Kumar</span></h1>
-<h3 align="center">🚀 Java Backend Developer | MERN Learner | Full-Stack Engineer</h3>
+<h3 align="center">🚀 Java Backend Developer | MERN | Full-Stack Engineer</h3>
 
 <p align="center">
   Passionate about building production-level backend systems, APIs, microservices & scalable applications.
