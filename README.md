@@ -32,9 +32,3 @@ Learning:
   - Kubernetes
   - CI/CD
   - Advanced System Design
-
-Full-stack enterprise projects
-🌐 Connect With Me
-<p align="center"> <a href="YOUR_LINKEDIN">LinkedIn</a> • <a href="YOUR_PORTFOLIO">Portfolio</a> • <a href="mailto:YOUR_EMAIL">Email</a> </p>
-Profile Views
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Devansh028&label=Profile%20views&color=0e75b6&style=flat" /> </p> ```
