@@ -1,34 +1,39 @@
-<h1 align="center">Hi 👋, I'm Devansh Kumar</h1>
-<h3 align="center">Backend Engineer | Java + Spring Boot | MERN Stack | System Design Enthusiast</h3>
+<div align="center">
 
-<p align="center">
-  Building scalable backend systems, microservices, event-driven architectures, and real-world products.
-</p>
+# Devansh Kumar
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Backend+Engineer;Java+Developer;MERN+Stack+Developer;Kafka+%7C+Redis+%7C+Docker;System+Design+Learner" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Backend+Engineer;Spring+Boot+%7C+Node.js+Developer;Microservices+Architect;Kafka+%7C+Redis+%7C+Docker;Building+Scalable+Systems" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Backend-Java%20%7C%20Spring%20Boot-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Frontend-React%20%7C%20MERN-61DAFB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Architecture-Microservices-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Event%20Driven-Kafka-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Database-MongoDB%20%7C%20MySQL-green?style=for-the-badge"/>
+
+</div>
 
 ---
 
-## 🚀 About Me
+# About Me
 
 ```yaml
-Name: Devansh Kumar
-Role: Software Developer / Backend Engineer
-Focus:
-  - Scalable Backend Systems
-  - Microservices Architecture
+name: Devansh Kumar
+role: Backend Engineer
+focus:
+  - Scalable Backend Architecture
   - Event-Driven Systems
-  - Full Stack Development
+  - Distributed Microservices
+  - Full Stack Engineering
   - System Design
 
-Currently Building:
-  - HireSim (AI Interview Simulation Platform)
-  - Banking Microservices
-  - Real-Time Event Streaming Systems
+currently_building:
+  - HireSim
+  - Banking Microservices Platform
+  - Event Streaming Architecture
 
-Learning:
+learning:
   - Kubernetes
   - CI/CD
-  - Advanced System Design
+  - Cloud Deployment
