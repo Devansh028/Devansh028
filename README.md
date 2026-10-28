@@ -136,16 +136,6 @@ React • Node.js • WebSockets • API Integration
 
 ---
 
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Devansh028&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
 # 🌐 Connect
 
 <div align="center">
